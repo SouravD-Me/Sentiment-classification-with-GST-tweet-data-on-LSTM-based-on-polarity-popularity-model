@@ -53,7 +53,7 @@ Please follow the mentioned project hierarchy:
 
 ⦁ This project was done with the following experimental setup:
 
-Our experimental setup consisted of an Intel i7 7700k processor, Nvidia 1050Ti (768 Cuda Cores, 4 Gb GDDR5 Frame Buffer), 8 Gb system memory, Nvidia Cuda Toolkit, and Python version 3.6.4 with nltk, plotly and matplotlib, and other relevant packages. We mostly aimed for Unicode, gibberish words, and URL removal, as they generally keep minimum to no impact on the extraction of underlying meaning or opinion of a natural English text. But we did not eliminate the emoticons or emojis from their native tweets, as emojis can be a useful key to determine the flavor of a text. Moreover, modern Python libraries such as Textblob handles emojis really well for further processing. <br><br><br><br><br>
+Our experimental setup consisted of an Intel i7 7700k processor, Nvidia 1050Ti (768 Cuda Cores, 4 Gb GDDR5 Frame Buffer), 8 Gb system memory, Nvidia Cuda Toolkit, and Python version 3.6.4 with Nltk, Plotly, mMtplotlib, and other relevant packages. We mostly aimed for Unicode, gibberish words, and URL removal, as they generally keep minimum to no impact on the extraction of underlying meaning or opinion of a natural English text. On the other hand, we did not eliminate the emoticons or emojis from their native tweets, as emojis can be a useful key to determine the flavor of a text. Moreover, modern Python libraries such as Textblob handles emojis really well for further processing. <br><br><br><br><br>
 
 
 
