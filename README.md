@@ -1,4 +1,5 @@
-# Sentiment-classification-with-GST-tweet-data-on-LSTM-based-on-polarity-popularity-model
+# Sentiment classification with GST tweet data on LSTM based on polarity-popularity model
+
 
 A full scale frameowrk for determining the polarity-popularity occurrence order of words extracted from tweets, based on a large scale economic reform. This research work is one of the most comprehensive approach on a large scale Twitter data, i.e., based on the implementation of GST in India.
 
@@ -41,6 +42,7 @@ Please follow the mentioned project hierarchy,
 ⦁	 This project was done with the following experimental setup:
 
 Our experimental setup consisted of an Intel i7 7700k processor, Nvidia 1050Ti (768 Cuda Cores, 4 Gb GDDR5 Frame Buffer), 8 Gb system memory, Nvidia Cuda Toolkit, and Python version 3.6.4 with nltk, plotly and matplotlib, and other relevant packages. We mostly aimed for Unicode, gibberish words, and URL removal, as they generally keep minimum to no impact on the extraction of underlying meaning or opinion of a natural English text. But we did not eliminate the emoticons or emojis from their native tweets, as emojis can be a useful key to determine the flavor of a text. Moreover, modern Python libraries such as Textblob handles emojis really well for further processing.
+
 
 
 
