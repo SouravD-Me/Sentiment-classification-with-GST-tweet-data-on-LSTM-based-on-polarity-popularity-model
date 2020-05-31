@@ -10,7 +10,7 @@ This is a concise form of the full scale work, providing *only* the main modules
 
 
 
-⦁  If you utilize our codes and/or the open datasets provided, or any of our findings, please site this work as: 
+⦁  If you utilize our codes and/or the open datasets provided, or any of our findings, please cite this work as: 
 
  **Das, S., Das, D. & Kolya, A.K. Sentiment classification with GST tweet data on LSTM 	based on polarity-popularity model. Sādhanā 45, 140 (2020). 	https://doi.org/10.1007/s12046-020-01372-8** <br><br>
 
