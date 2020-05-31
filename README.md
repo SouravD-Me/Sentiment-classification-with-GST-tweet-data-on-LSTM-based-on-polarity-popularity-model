@@ -58,4 +58,4 @@ Our experimental setup consisted of an Intel i7 7700k processor, Nvidia 1050Ti (
 
 
 
--By Sourav Das
+-By Sourav Das.
