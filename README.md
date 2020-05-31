@@ -26,8 +26,8 @@ This is a concise form of the full scale work, providing *only* the main modules
 One of the biggest issues of Indian economy in 2017 was the implementation of Goods and Services Tax (GST), and the social networks witnessed a lot of opinion contrasts and conflicts regarding this new taxation system. Inspired by such a large-scale tax reformation, we developed an experimental approach to analyze the reactions of public sentiment on Twitter based on popular words either directly or indirectly related to GST. We collected a number of almost 200 k tweets solely about GST from June 2017 to December 2017 in two phases. In order to assure the relevance of our crawled tweets with respect to GST, we prepared a topic-sentiment relevance model. Furthermore, we employed several state-of-art lexicons for identifying sentiment words and assigned polarity ratings to each of the tweets. On the other hand, in order to extract the relevant words that are linked with GST implicitly, we propose a new polarity-popularity framework and such popular words were also rated with sentiments. Next, we trained an LSTM model using both types of rated words for predicting sentiment on GST tweets and obtained an overall accuracy of **84.51%**. It was observed that the performance of the system has been started improving while incorporating the knowledge of indirectly related GST words during training. <br><br><br>
 
 
-
 <br>
+
 ⦁  **Workflow of the project:**
 
 Please follow the mentioned project hierarchy,
