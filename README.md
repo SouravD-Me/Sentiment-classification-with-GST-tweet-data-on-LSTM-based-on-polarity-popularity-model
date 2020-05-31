@@ -47,7 +47,7 @@ Please follow the mentioned project hierarchy:
 					     
 
 <br><br><br>
-⦁  *Please* open all the txt and CSV files using Notepad++ and MS Excel respectively. Since the tweet data is dense with multiple parameters, traditional notepad and/or rich text document will not be able to show it properly. <br><br>
+⦁  *Please* open all the txt and CSV files using Notepad++ and MS Excel respectively. Since the tweet data is dense with multiple parameters, traditional notepad may not be able to show it properly. <br><br>
 
 
 
