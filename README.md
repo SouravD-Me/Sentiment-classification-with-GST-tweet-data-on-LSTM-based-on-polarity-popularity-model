@@ -36,13 +36,13 @@ Please follow the mentioned project hierarchy,
 	
 	   2. Feature I - GST-specified word sentiment identification,
 		
-			  3. GST-implied word identification from POS tagging,
+	      3. GST-implied word identification from POS tagging,
 
-				   4. Feature II: Sentiment rating of tweets,
+	         4. Feature II: Sentiment rating of tweets,
 
-					    5. LSTM for sentiment accuracy prediction,
+		    5. LSTM for sentiment accuracy prediction,
 
-						     6. Confusion matrix & classification report.
+		       6. Confusion matrix & classification report.
 						     
 					     
 
@@ -58,4 +58,4 @@ Our experimental setup consisted of an Intel i7 7700k processor, Nvidia 1050Ti (
 
 
 
-- By Sourav Das
+-By Sourav Das
