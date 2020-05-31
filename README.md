@@ -1,11 +1,11 @@
 ## Sentiment classification with GST tweet data on LSTM based on polarity-popularity model
 
 
-A full scale frameowrk for determining the polarity-popularity occurrence order of words extracted from tweets, based on a large scale economic reform. This research work is one of the most comprehensive approach on a large scale Twitter data, i.e., based on the implementation of GST in India. \\
+A full scale frameowrk for determining the polarity-popularity occurrence order of words extracted from tweets, based on a large scale economic reform. This research work is one of the most comprehensive approach on a large scale Twitter data, i.e., based on the implementation of GST in India. \
+\
 
-
-This is a concise form of the full scale work, providing *only* the main modules. \\
-
+This is a concise form of the full scale work, providing *only* the main modules. \
+\
 
 
 ⦁  If you utilize our codes and/or the open datasets, or any of our findings, please site this work as:
