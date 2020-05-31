@@ -42,12 +42,12 @@ Please follow the mentioned project hierarchy,
 
 					    5. LSTM for sentiment accuracy prediction,
 
-						     6. Confusion matrix & classification report. <br><br><br>
+						     6. Confusion matrix & classification report.
 						     
 					     
 
-
-⦁  *Please* open all the txt and CSV files using Notepad++ and MS Excel respectively. Since the tweet data is dense with multiple parameters, traditional notepad and/or rich text document will not be able to show it properly. br><br>
+<br><br><br>
+⦁  *Please* open all the txt and CSV files using Notepad++ and MS Excel respectively. Since the tweet data is dense with multiple parameters, traditional notepad and/or rich text document will not be able to show it properly. <br><br>
 
 
 
