@@ -30,7 +30,7 @@ One of the biggest issues of Indian economy in 2017 was the implementation of Go
 
 ⦁  **Workflow of the project:**
 
-Please follow the mentioned project hierarchy,
+Please follow the mentioned project hierarchy:
 
 	1. Data Collection & Preprocessing,
 	
