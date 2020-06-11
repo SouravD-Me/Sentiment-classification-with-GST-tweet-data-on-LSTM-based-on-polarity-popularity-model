@@ -16,7 +16,7 @@ This is a concise form of the full scale work, providing *only* the main modules
 
 
 
-⦁  You can *read* our paper on: [Springer Nature SharedIt](https://rdcu.be/b4vJw). or *download* it from [Indian Academy of Sciences](https://www.ias.ac.in/article/fulltext/sadh/045/0140) <br><br>
+⦁  You can *read* our paper on: [Springer Nature SharedIt](https://rdcu.be/b4vJw) or *download* it from [Indian Academy of Sciences](https://www.ias.ac.in/article/fulltext/sadh/045/0140). <br><br>
 
 
 
